@@ -1,6 +1,6 @@
 {
-  "name": "bedezign/yii2-audit",
-  "description": "Yii2 Audit records and displays web/cli requests, database changes, php/js errors and associated data.",
+  "name": "harunmahfud/yii2-audit",
+  "description": "Yii2 Audit. Forked from https://github.com/bedezign/yii2-audit",
   "keywords": [
     "yii2",
     "audit",
@@ -24,6 +24,10 @@
       "name": "Marc Hollander",
       "homepage": "http://maruc.nl/",
       "email": "marchollander@gmail.com"
+    },
+    {
+      "name": "Mahfud Harun",
+      "email": "harunmahfud@gmail.com"
     }
   ],
   "require": {
